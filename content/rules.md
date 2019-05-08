@@ -25,3 +25,9 @@ As stated in our about page:
 	* Shep Lenchek (name changed) says chicken and rice is the best lunch.
 
 3. Submit your post and wait for a moderator to verify that you've complied with TerracottaEarth’s policy. The founders debated for a long time about whether this was a necessary step, ultimately coming to the conclusion that in order to protect this from as many takedown attempts as possible by a certain community we will neglect to name, we need to take proper measures to enforce the rules.
+
+
+# One more thing, fellas...
+
+TerracottaEarth exists because students often feel unheard or underrepresented in official discussions and forums in our community. We hope that by giving you a place where you can be heard and encounter perspectives you otherwise normally wouldn’t hear, you can actively and safely participate and ultimately be part of the bigger movement for positive change. As such, in order to make our founders’ lives a little bit easier, we request that you do not tell the administration, teachers, or parents about TerracottaEarth.
+
