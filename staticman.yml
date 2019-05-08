@@ -12,6 +12,6 @@ comments:
   moderation: false
   name: "Rich Liebling's Blog"
   path: "data/comments/{options.postId}"
-  requiredFields: ["author", "content", "email", "permalink"]
+  requiredFields: ["author"]
   transforms:
 email: md5
