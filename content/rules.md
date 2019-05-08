@@ -13,7 +13,7 @@ As stated in our about page:
 >  “The objective of TerracottaEarth is to provide an uncensored platform for participants to anonymously express their viewpoints without the threat of academic repercussions and further intelligent discussion from all shades of opinion... These are almost completely uncensored forums, the founders and moderators of TerracottaEarth must legally comply with United States law, names and any other identifying markers will be censored or removed, [and] TerracottaEarth will strive to maintain itself as an open place for members of a certain community we will neglect to name.”
 
 
-# Ok, those rules make sense. How do I follow them?
+# Ok, these rules make sense. How do I follow them?
 
 ##### It's simple.
 
