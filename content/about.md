@@ -17,7 +17,7 @@ The objective of TerracottaEarth is to provide an uncensored platform for partic
 
 # Who is behind TerracottaEarth?
 
-The entire purpose of TerracottaEarth is to maintain our promise of anonymity. Therefore, our identities will not be disclosed, just like yours. We have no accounts or identifying information, as is the goal of this platform.
+One of the main goals of TerracottaEarth is to maintain our promise of anonymity. Therefore, our identities will not be disclosed, just like yours. We have no accounts or identifying information, as is the goal of this platform.
 
 
 # What protections on my privacy are there?
