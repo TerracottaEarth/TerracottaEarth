@@ -6,16 +6,20 @@ featured_image = ""
 description = ""
 +++
 
-# What is this?
+# What is TerracottaEarth?
 
-These are (almost) completely uncensored forums. While we do have to comply with united states law (no calls to violence) and we're not complete assholes (we'll censor names and identifying information) we strive to keep this an open place for people from a certain community that I will neglect to name.
+The objective of TerracottaEarth is to provide an uncensored platform for participants to anonymously express their viewpoints without the threat of academic repercussions and further intelligent discussion from all shades of opinion.
+1. These are almost completely uncensored forums.
+2. The founders and moderators of TerracottaEarth must legally comply with United States law.
+3. Names and any other identifying markers will be censored or removed.
+4. TerracottaEarth will strive to maintain itself as an open place for members of a certain community we will neglect to name.
 
 
-# Who are we?
+# Who is behind TerracottaEarth?
 
-That's the whole point. You don't need to know, and we don't need to know who you are. We have no accounts, no identifying information, just uncensored. Actually uncensored.
+The entire purpose of TerracottaEarth is to maintain our promise of anonymity. Therefore, our identities will not be disclosed, just like yours. We have no accounts or identifying information, as is the goal of this platform.
 
 
 # What protections on my privacy are there?
 
-Firstly, what you don't tell us we can't know. Use a VPN or Tor if you're worried about us collecting information fthat way (you should be doing that anyway, honestly). Secondly, all our code is open source, meaning that if you want to verify that we're not collecting any data you can.
+First of all, what you choose not to tell us, we won’t know. If there are any concerns about information collecting, the founders recommend you use a VPN or Tor. Secondly, all of TerracottaEarth’s code will remain open source; if you wish to verify that we aren’t collecting data for yourself you can go over it.
