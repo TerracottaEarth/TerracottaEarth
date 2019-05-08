@@ -11,3 +11,4 @@ description = ""
 
 this is standard text.
 
+<footer>{{ partial "layouts\partials\staticman\form-comments.html" . }}</footer>
