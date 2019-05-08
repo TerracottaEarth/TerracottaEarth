@@ -40,3 +40,8 @@ paginate = 5
         identifier = "rules"
         name = "Rules"
         url = "/rules"
+[params.staticman]
+  username = "TerracottaEarth"
+  repository = "TerracottaEarth"
+  branch = "master"
+  notifications = false
